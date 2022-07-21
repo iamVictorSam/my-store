@@ -8,7 +8,7 @@ First, clone the repository uisng
 https://github.com/iamVictorSam/my-store.git
 ```
 
-Get the packages using
+And get the packages using
 
 ``` 
 flutter pub get
