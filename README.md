@@ -1,4 +1,4 @@
-# my-flutter-store
+# my-store
 This is an E-commerce app built with Medusa Backend and Flutter
 
 ## Getting Started
