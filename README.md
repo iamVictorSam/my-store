@@ -5,7 +5,7 @@ This is an E-commerce app built with Medusa Backend and Flutter
 First, clone the repository uisng 
 
 ```
-https://github.com/iamVictorSam/my-store.git
+git clone https://github.com/iamVictorSam/my-store.git
 ```
 
 And get the packages using
