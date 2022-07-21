@@ -11,7 +11,7 @@ class ProductPrice extends StatelessWidget {
     return SizedBox(
       height: 50.0,
       child: ListView.separated(
-        itemCount: product.images.length,
+        itemCount: product.variants[0].prices.length,
         scrollDirection: Axis.horizontal,
         shrinkWrap: true,
         itemBuilder: (context, index) => Padding(
